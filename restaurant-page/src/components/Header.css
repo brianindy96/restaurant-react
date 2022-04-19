@@ -3,8 +3,8 @@
     justify-content: space-between;
     max-width: 960px;
     margin: 0 auto;
-    height: 80px;
-    background-color: lightgrey;
+    min-height: 80px;
+    color: white;
 }
 
 .logo-container h1{
@@ -21,14 +21,16 @@
 }
 
 .list-item a{
+    padding-right: 10px;
     font-weight: bold;
     font-size: 1.3rem;
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .mobile-menu{
     padding-right: 20px;
     font-size: 1.2rem;
     padding-top: 30px;
+    display: none;
 }

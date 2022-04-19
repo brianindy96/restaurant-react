@@ -1,0 +1,46 @@
+.home-page{
+    height: 722px;
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.home-container{
+    text-align: center;
+}
+
+.home-page p{
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+.home-title h1{
+    font-size: 5rem;
+}
+
+button{
+    padding: 5px;
+    color: white;
+    border: 1px solid white;
+    background: transparent;
+}
+
+.learn-btn{
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 50px;
+}
+
+.learn-btn:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background: black;
+    box-shadow: 10px 10px 27px -7px rgba(255,0,0,0.75);
+}
+
+.learn-btn a{
+    text-decoration: none;
+    color: white;
+}
