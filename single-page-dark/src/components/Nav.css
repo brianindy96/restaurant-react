@@ -1,0 +1,12 @@
+.links li{
+    list-style: none;
+}
+
+.links li a{
+    text-decoration: none;
+    color: var(--lightgrey);
+}
+
+.links{
+    grid-rows: 2/3;
+}
