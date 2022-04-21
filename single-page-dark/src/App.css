@@ -1,0 +1,13 @@
+:root{
+    --black: #030610;
+    --darkblue: #081246;
+    --blue: #0630E1;
+    --grey: #3D4147;
+    --lightgrey: #B3B6BC;
+    --oceanblue: #2045AF;
+    --navyblue: #6586B8;
+}
+
+body{
+  background-color: var(--black);
+}
